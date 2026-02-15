@@ -62,15 +62,3 @@ All resources are protected via **FiveM Escrow** and receive regular updates.
 ✦  Detailed documentation on every feature
 ✦  Fast, hands-on support — real developers, not bots
 ```
-
-<br />
-
-## Get In Touch
-
-<div align="center">
-
-| 🛒 **Browse Scripts** | **[f5stud.io](https://f5stud.io)** |
-| 💬 **Join Community** | **[discord.f5stud.io](https://discord.f5stud.io)** |
-| 📖 **Read the Docs** | **[docs.f5stud.io](https://docs.f5stud.io)** |
-
-</div>
